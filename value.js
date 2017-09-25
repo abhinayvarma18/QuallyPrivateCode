@@ -56,7 +56,4 @@ var input = function(a) {
        console.log('error')
     }
 }
-input("2.345")
-input("-345.23")
-input("asd32")
-input("2.334.4")
+//input("2.345")
